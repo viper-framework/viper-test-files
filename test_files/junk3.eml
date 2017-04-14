@@ -1,0 +1,55 @@
+Return-Path: admin@prattguys.com
+Received: from mail.blah.com (LHLO mail2.blah.com) (127.0.0.1) by
+ mstore3.blah.com with LMTP; Fri, 14 Apr 2017 09:23:27 +0200 (CEST)
+Received: from mail2.blah.com (localhost [127.0.0.1])
+	by mail2.blah.com (Postfix) with ESMTPS id 2E2B132031
+	for <foo@blah.com>; Fri, 14 Apr 2017 09:24:55 +0200 (CEST)
+Received: from mail2.blah.com (localhost [127.0.0.1])
+	by mail2.blah.com (Postfix) with ESMTPS id 2047832054
+	for <foo@blah.com>; Fri, 14 Apr 2017 09:24:55 +0200 (CEST)
+Received: from mx1.blah.com (mx1.blah.com [85.93.212.30])
+	by mail2.blah.com (Postfix) with ESMTPS id 1643232031
+	for <foo@blah.com>; Fri, 14 Apr 2017 09:24:55 +0200 (CEST)
+Received:  from cpb.blah.de ([127.0.0.1])
+	 by mx1.blah.com stage1 with esmtps 
+	(Exim MailCleaner) 
+	id 1cyvbR-0000Y0-DE 
+	for <foo@blah.com> 
+	from <admin@prattguys.com>; Fri, 14 Apr 2017 09:25:09 +0200
+Received: from prattguys.com (unknown [222.97.39.119])
+	by cpb.blah.de (Postfix) with SMTP id 5E5E0E8183E
+	for <foo@blah.com>; Fri, 14 Apr 2017 09:25:03 +0200 (CEST)
+X-MailCleaner-SPF: softfail
+Message-ID: <B2825006.BD523F7B@prattguys.com>
+Date: Fri, 14 Apr 2017 10:24:57 +0300
+Reply-To: "Pratt Brothers" <admin@prattguys.com>
+From: "Pratt Brothers" <admin@prattguys.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.21) Gecko/20090409 Thunderbird/2.0.0.21
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <foo@blah.com>
+Subject: Pratt Is Now Earth Works Jacksonville
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+Authentication-Results: localhost; dmarc=skipped
+X-MailCleaner-Information: Please contact support@blah.com for more information
+X-MailCleaner-ID: 1cyvbR-0000Y4-El
+X-MailCleaner: Not scanned: please contact support@blah.com for details
+X-MailCleaner-SpamCheck: 
+X-MailCleaner-ReportURL: https://antispam.blah.com/rs.php
+
+Dear Customer,
+Pratt is now Earth Works Jacksonville!
+
+We are pleased to announce that Pratt has been acquired by Earth Works of
+Jacksonville.  This new combined company will expand and provide even
+greater hardscape and outdoor living space services for our valued
+customers.
+
+Please visit our new website at http://www.earthworksjax.com
+
+Thank you for your valued business,
+Pratt Brothers
+
+
